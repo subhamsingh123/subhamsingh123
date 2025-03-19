@@ -10,4 +10,4 @@ subhamsingh123/subhamsingh123 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://leetcard.jacoblin.cool/alexus78?width=500&height=500)
+![](https://leetcard.jacoblin.cool/alexus78?ext=heatmap)
