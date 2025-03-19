@@ -10,8 +10,8 @@ I'm a passionate backend developer based in New Delhi, India 🇮🇳. I special
 
 ## Tech Stack  
 - **Programming Languages**: Java  
-- **Databases**: SQL, MongoDB  
-- **Frameworks & Tools**: Hibernate  
+- **Databases**: MySQL, MongoDB, Oracle SQL
+- **Frameworks & Tools**: Spring Boot, Hibernate, 
 - **Cloud & DevOps**: AWS  
 <!---
 subhamsingh123/subhamsingh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
