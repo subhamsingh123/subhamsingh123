@@ -39,7 +39,7 @@ I'm a passionate **Senior Java Developer** based in New Delhi, India 🇮🇳. I
 
 ### **Other Tools & Technologies**  
 - **Logging & Monitoring** (ELK Stack, Prometheus, Grafana, Zipkin)  
-- **Version Control** (Git, GitHub, GitLab, Bitbucket)  
+- **Version Control** (Git, GitHub, GitLab)  
 - **Build Tools** (Maven, Gradle)  
 
 ## Data Structures & Algorithms Enthusiast  
